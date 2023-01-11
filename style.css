@@ -1,0 +1,8 @@
+.register{
+    font-size: large;
+}
+
+[type=button]{
+    font-size: xx-large;
+    color:rgb(190, 150, 29);
+}
